@@ -5,7 +5,7 @@ Our task was to help Seth and Tom submit an audit of the election results to the
 The election commission came back and requested voter turnout by county, percentage of votes by county, and the county with the highest turnout. We had to go back and tweak our code to include this information as a part of the audit. Denver county had the highest voter turnout.
 ## Election-Audit Results:
 An image of the audit containing the candidate results and county voter turnout is pasted below:
-![Results-Image] (https://github.com/mmanackal/Election_Analysis/blob/main/Resources/Election-Results.PNG)
+![Results-Image](https://github.com/mmanackal/Election_Analysis/blob/main/Resources/Election-Results.PNG)
 ### How many votes were cast in this congressional election?
 Our analysis showed 369,711 votes were cast during this election.
 
